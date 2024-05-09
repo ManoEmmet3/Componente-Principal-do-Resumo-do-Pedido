@@ -1,0 +1,18 @@
+*{ 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+/*: Seletor universal que seleciona todos os elementos HTML na página.
+
+margin: 0;: Define a margem de todos os elementos como zero.
+
+padding: 0;: Define o preenchimento de todos os elementos como zero.
+
+box-sizing: border-box;: Faz com que a largura e a altura dos elementos incluam o preenchimento e a borda, em vez de apenas o conteúdo.
+
+font-family: Arial, Helvetica, sans-serif;: Define a família de fontes padrão 
+
+/
